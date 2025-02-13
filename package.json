@@ -1,0 +1,22 @@
+{
+  "name": "npm_intern",
+  "version": "1.0.0",
+  "description": "This Package will Create a package.json file ",
+  "main": "index.js",
+  "scripts": {
+  "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/soundaryadhanapal-10/npm_intern.git"
+  },
+  "author": "Soundarya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundaryadhanapal-10/npm_intern/issues"
+  },
+  "homepage": "https://github.com/soundaryadhanapal-10/npm_intern#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
